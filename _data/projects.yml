@@ -1,0 +1,58 @@
+intro: "I have worked on many client and a few personal projects. Here are some that are public."
+extro: "All the websites and themes I have built are using HTML, CSS, JavaScript and in some cases JQuery. They are all optimized for speed, responsiveness and are search engine optimized."
+projects:
+  - project:
+    title: Express Coffee
+    link: "https://expresscoffeeindia.com"
+    tagline: "A coffee manufacturer from chikamagalur."
+  - project:
+    title: CloudYuga
+    link: "https://cloudyuga.guru/"
+    tagline: "A Docker and Kubernetes training website."
+  - project:
+    title: Unboundprep
+    link: "https://unboundprep.com/"
+    tagline: "A civil service exam preperation forum."
+  - project:
+    title: Web-Grid
+    link: "http://webjeda.com/web-grid/"
+    tagline: "A grid CSS based grid system for easy web development."
+  - project:
+    title: Hagura
+    link: "http://webjeda.com/hagura/"
+    tagline: "A light weight minimalist theme."
+
+  - project:
+    title: Karna
+    link: "http://webjeda.com/karna/"
+    tagline: "A responsive jekyll theme with pinterest like pins."
+    
+  - project:
+    title: Bheema
+    link: "http://webjeda.com/bheema/"
+    tagline: "A theme suitable for image heavy journal kind of websites."
+
+  - project:
+    title: Ashwathama
+    link: "http://webjeda.com/ashwathama/"
+    tagline: "A minimal theme with an app like layout."
+    
+  - project:
+    title: Vyaasa
+    link: "http://webjeda.com/vyaasa/"
+    tagline: "A minimal Jekyll theme meant for writers."
+    
+  - project:
+    title: Thunder
+    link: "http://webjeda.com/thunder/"
+    tagline: "A lightning fast minimal theme."
+    
+  - project:
+    title: Slides
+    link: "http://webjeda.com/slides/"
+    tagline: "A slideshow organizer website."
+    
+  - project:
+    title: Avocado
+    link: "https://avocado.jekyll-themes.com/"
+    tagline: "A minimal theme to show off your skills online."

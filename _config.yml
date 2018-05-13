@@ -1,0 +1,49 @@
+# Site Settings
+title: My Resume
+url: 'http://webjeda.com'
+baseurl: '/resume' #change it according to your repository name
+about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: # blue turquoise green berry orange ceramic
+
+
+# Profile information
+name: Alan Doe
+tagline: Full Stack Developer
+pic: sharath-100x2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "My name is Sharath. I'm a passionate webdesigner from Bengaluru. I work as a freelancer at webjeda. I like my websites to be responsive, robust and super fast. Optimizing websites fro SEO is something that I love to do."
+
+# Sidebar links
+email: hello@webjeda.com
+phone: +91 990 110 0972
+website: webjeda.com #do not add http://
+linkedin: sharathdt
+github: sharu725
+twitter: '@webjeda'
+youtube: 'webjeda'
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-83979019-1
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

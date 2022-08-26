@@ -5,27 +5,42 @@ projects:
     title: Crocodaily
     link: "https://crocodaily.com"
     tagline: "Buy authentic malenadu chips directly from the producers."
-  
+
+  - project:
+    title: Patra
+    link: "https://patra.webjeda.com"
+    tagline: "Share your note with anyone through a link, no database, no storage."
+
+  - project:
+    title: Online CV
+    link: "https://online-cv.webjeda.com"
+    tagline: "A minimal Jekyll Template to host your resume (CV)."
+
+  - project:
+    title: Nallikayi
+    link: "https://nallikayi.com"
+    tagline: "A kannada podcast related to kannada literature."
+
   - project:
     title: Express Coffee
     link: "https://bit.ly/2TegELT"
     tagline: "A coffee manufacturer from Chickamagalur."
-  
+
   - project:
     title: CloudYuga
     link: "https://cloudyuga.guru/"
     tagline: "A Docker and Kubernetes training website."
-  
+
   - project:
     title: Unboundprep
     link: "https://bit.ly/2PsOfoi"
     tagline: "A civil service exam preperation forum."
-  
+
   - project:
     title: Web-Grid
     link: "http://webjeda.com/web-grid/"
     tagline: "A grid CSS based grid system for easy web development."
-  
+
   - project:
     title: Hagura
     link: "http://webjeda.com/hagura/"
@@ -35,33 +50,13 @@ projects:
     title: Karna
     link: "http://webjeda.com/karna/"
     tagline: "A responsive jekyll theme with pinterest like pins."
-    
+
   - project:
     title: Bheema
     link: "http://webjeda.com/bheema/"
     tagline: "A theme suitable for image heavy journal kind of websites."
 
   - project:
-    title: Ashwathama
-    link: "http://webjeda.com/ashwathama/"
-    tagline: "A minimal theme with an app like layout."
-    
-  - project:
-    title: Vyaasa
-    link: "http://webjeda.com/vyaasa/"
-    tagline: "A minimal Jekyll theme meant for writers."
-    
-  - project:
-    title: Thunder
-    link: "http://webjeda.com/thunder/"
-    tagline: "A lightning fast minimal theme."
-    
-  - project:
     title: Slides
     link: "http://webjeda.com/slides/"
     tagline: "A slideshow organizer website."
-    
-  - project:
-    title: Avocado
-    link: "https://avocado.jekyll-themes.com/"
-    tagline: "A minimal theme to show off your skills online."

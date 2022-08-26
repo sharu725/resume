@@ -1,15 +1,31 @@
 - skill:
   name: HTML
   level: 85%
+
+- skill:
+  name: Svelte
+  level: 80%
+
 - skill:
   name: CSS
-  level: 80%
+  level: 70%
+
+- skill:
+  name: React
+  level: 60%
+
 - skill:
   name: JavaScript
   level: 60%
+
 - skill:
   name: Photoshop
   level: 60%
+
 - skill:
   name: Illustrator
   level: 55%
+
+- skill:
+  name: VueJs
+  level: 40%

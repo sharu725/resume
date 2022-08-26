@@ -1,30 +1,26 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/resume' #change it according to your repository name
+url: "http://webjeda.com"
+baseurl: "/resume" #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
-
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: # blue turquoise green berry orange ceramic
 
-
-
 # Profile information
 name: Sharath Kumar
 tagline: Web Designer
-pic: sharath-100x2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "My name is Sharath. I'm a passionate webdesigner from Bengaluru. I'm currently working as a freelancer at webjeda. I like my websites to be responsive, robust and super fast. Optimizing websites for SEO is something that I love to do."
-
+pic: sharath-100x2.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "My name is Sharath. I'm a passionate web-designer from Bengaluru.<br /><br /> I'm currently working as a freelancer at webjeda. I like my websites to be responsive, robust and super fast. <br /><br />Optimizing websites for speed & SEO is something that I love to do."
 
 # Sidebar links
 email: hello@webjeda.com
-phone: +91 797 580 2022
+phone: +91 890 447 5972
 website: webjeda.com #do not add http://
 linkedin: sharathdt
 github: sharu725
-twitter: '@webjeda'
-youtube: 'webjeda'
+twitter: "@webjeda"
+youtube: "webjeda"
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar

@@ -19,6 +19,10 @@
   level: 60%
 
 - skill:
+  name: TypeScript
+  level: 50%
+
+- skill:
   name: Photoshop
   level: 60%
 

@@ -4,7 +4,7 @@ projects:
   - project:
     title: Crocodaily
     link: "https://crocodaily.com"
-    tagline: "Buy authentic malenadu chips directly from the producers."
+    tagline: "An e-commerce website built for selling banana chips."
 
   - project:
     title: Patra
@@ -12,9 +12,19 @@ projects:
     tagline: "Share your note with anyone through a link, no database, no storage."
 
   - project:
+    title: Panchavati Cottages
+    link: "https://panchavatisringeri.com"
+    tagline: "A homestay booking website. Specifically made for booking through whatsapp"
+
+  - project:
     title: Online CV
     link: "https://online-cv.webjeda.com"
     tagline: "A minimal Jekyll Template to host your resume (CV)."
+
+  - project:
+    title: Slides
+    link: "http://webjeda.com/slides"
+    tagline: "Manage your slides from one place!"
 
   - project:
     title: Nallikayi
@@ -22,24 +32,9 @@ projects:
     tagline: "A kannada podcast related to kannada literature."
 
   - project:
-    title: Express Coffee
-    link: "https://bit.ly/2TegELT"
-    tagline: "A coffee manufacturer from Chickamagalur."
-
-  - project:
-    title: CloudYuga
-    link: "https://cloudyuga.guru/"
-    tagline: "A Docker and Kubernetes training website."
-
-  - project:
-    title: Unboundprep
-    link: "https://bit.ly/2PsOfoi"
-    tagline: "A civil service exam preperation forum."
-
-  - project:
-    title: Web-Grid
-    link: "http://webjeda.com/web-grid/"
-    tagline: "A grid CSS based grid system for easy web development."
+    title: Karanth Foods
+    link: "https://www.karanthfoods.com"
+    tagline: "A website made for vacuum fried chips manufacturer."
 
   - project:
     title: Hagura
@@ -50,13 +45,3 @@ projects:
     title: Karna
     link: "http://webjeda.com/karna/"
     tagline: "A responsive jekyll theme with pinterest like pins."
-
-  - project:
-    title: Bheema
-    link: "http://webjeda.com/bheema/"
-    tagline: "A theme suitable for image heavy journal kind of websites."
-
-  - project:
-    title: Slides
-    link: "http://webjeda.com/slides/"
-    tagline: "A slideshow organizer website."
